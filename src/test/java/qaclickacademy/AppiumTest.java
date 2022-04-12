@@ -14,4 +14,9 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps");	
 	}
+	@Test
+	public void Androidsapp()
+	{
+		System.out.println("android");
+	}
 }
