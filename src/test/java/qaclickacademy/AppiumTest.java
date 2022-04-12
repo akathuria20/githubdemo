@@ -17,6 +17,6 @@ public class AppiumTest {
 	@Test
 	public void Mobiletest()
 	{
-		System.out.println("mobiletest");	
+		System.out.println("mobiletest1");	
 	}
 }
