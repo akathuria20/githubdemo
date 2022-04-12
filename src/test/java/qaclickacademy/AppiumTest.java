@@ -15,8 +15,8 @@ public class AppiumTest {
 		System.out.println("IOSApps");	
 	}
 	@Test
-	public void IOSAp()
+	public void Mobiletest()
 	{
-		System.out.println("IOSAp");	
+		System.out.println("mobiletest");	
 	}
 }
